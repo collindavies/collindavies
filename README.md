@@ -1,4 +1,4 @@
-👋 Hi, I’m Collin. I'm a scientist. More than that, I've got an interest in creating right-sized solutions to really challenging and important problems. <br>
+👋 Hi, I’m Collin. I'm a scientist. More than that, I'm interested in creating right-sized solutions to really challenging and important problems. <br>
 👷‍♀️ Most recently, I transformed the data science and analytics capabilities of a workplace safety tech startup.
 
 <!---
